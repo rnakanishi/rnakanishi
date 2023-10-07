@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 Hello there! I'm a Pipeline TD, currently working at Assembly FX.
 
-For more contents, visit my [blog](rnakanishi.github,io)
+For more contents, visit my [blog](rnakanishi.github.io)
