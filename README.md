@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-@rnakamon-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rnakamon/)](https://instagram.com/rnakamon)
 [![Gmail Badge](https://img.shields.io/badge/-rafael.umino.nakanishi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rafael.umino.nakanishi@gmail.com)](mailto:rafael.umino.nakanishi@gmail.com)
 
-Hello there! I'm a Pipeline Engineer, formerly worked for Wildlife Studios.
+Hello there! I'm a Pipeline TD, currently working at Assembly FX.
+
+For more contents, visit my [blog](rnakanishi.github,io)
